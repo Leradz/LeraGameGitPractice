@@ -8,7 +8,7 @@ public class Level1 {
 
     public static void main(String[] args) {
 
-        System.out.println("Level 1 of the game");
+        System.out.println("Level 1 of the game is ready");
 
     }
 }
